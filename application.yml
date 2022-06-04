@@ -7,5 +7,5 @@ eureka:
     instance:
       hostname: localhost
 
-User: Keshav
-Role: Admin
+user: Keshav
+role: Admin
