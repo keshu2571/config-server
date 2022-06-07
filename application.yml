@@ -7,5 +7,5 @@ eureka:
     instance:
       hostname: localhost
 
-user: Keshav Sharma @ Accenture Limited at Pune
+user: Keshav Sharma @ Delhi
 role: Admin
